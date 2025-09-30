@@ -1,0 +1,1 @@
+import{y as o,L as r,N as u,O as v,P as l}from"./vendor-BrY8b94Q.js";function d(n,s){const e=o(null),t=async()=>{if(n.value){e.value=v(l(n.value));const i=await s();e.value.setOption(i)}},a=()=>{e.value?.resize()};r(()=>{t(),window.addEventListener("resize",a)}),u(()=>{window.removeEventListener("resize",a),e.value&&e.value?.dispose()})}export{d as u};
