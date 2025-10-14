@@ -1,0 +1,1 @@
+import{r as o,a as r,b as u,m as v,i as l}from"./vendor-CHjNVy30.js";function d(n,s){const e=o(null),t=async()=>{if(n.value){e.value=v(l(n.value));const i=await s();e.value.setOption(i)}},a=()=>{e.value?.resize()};r(()=>{t(),window.addEventListener("resize",a)}),u(()=>{window.removeEventListener("resize",a),e.value&&e.value?.dispose()})}export{d as u};
