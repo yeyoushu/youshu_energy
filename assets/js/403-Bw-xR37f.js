@@ -1,0 +1,1 @@
+import e from"./Layout-BAiQbz9f.js";import{j as t,f as o,o as s,w as a,g as r,u as n}from"./vendor-CHjNVy30.js";import"./index-CulM0VMq.js";const c="/assets/svg/403-nbrMVkml.svg",i=t({__name:"403",setup(m){return(p,u)=>(s(),o(e,null,{default:a(()=>[r(n(c))]),_:1}))}});export{i as default};

@@ -1,0 +1,1 @@
+import{cc as c,cd as i}from"./test-Dp3_P59c.js";const e=class e{};e.instance=new c("Etc/UTC");let t=e;function s(n){return n instanceof i?n===t.instance:n?.toString().toLowerCase()==="unknown"}function a(n){return s(n)?t.instance:n}export{s as e,a as i,t as o};
