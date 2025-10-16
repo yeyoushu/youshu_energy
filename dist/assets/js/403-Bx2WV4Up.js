@@ -1,0 +1,1 @@
+import e from"./Layout-D7ue0pcD.js";import{j as t,f as o,o as s,w as a,g as r,u as n}from"./vendor-CHjNVy30.js";import"./index-BJQUWR-1.js";const u="/youshu_energy/assets/svg/403-nbrMVkml.svg",i=t({__name:"403",setup(c){return(_,m)=>(s(),o(e,null,{default:a(()=>[r(n(u))]),_:1}))}});export{i as default};

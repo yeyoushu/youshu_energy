@@ -1,0 +1,40 @@
+{
+  "name": "my-vue-energy",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@amap/amap-jsapi-loader": "^1.0.1",
+    "@arcgis/core": "^4.33.14",
+    "@element-plus/icons-vue": "^2.3.2",
+    "@tinymce/tinymce-vue": "^5.1.1",
+    "@types/lodash-es": "^4.17.12",
+    "axios": "^1.12.1",
+    "echarts": "^5.5.1",
+    "element-plus": "^2.11.2",
+    "file-saver": "^2.0.5",
+    "mockjs": "^1.1.0",
+    "pinia": "^3.0.3",
+    "spark-md5": "^3.0.2",
+    "vue": "^3.5.18",
+    "vue-router": "^4.5.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/lodash-es": "^4.17.12",
+    "@types/node": "^24.3.0",
+    "@types/spark-md5": "^3.0.5",
+    "@vitejs/plugin-vue": "^6.0.1",
+    "@vue/tsconfig": "^0.7.0",
+    "mockjs": "^1.1.0",
+    "sass": "^1.92.1",
+    "typescript": "~5.8.3",
+    "vite": "^7.1.2",
+    "vue-tsc": "^3.0.5"
+  }
+}
